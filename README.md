@@ -46,8 +46,7 @@ portfolio/
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/prakhar-117/3dResponsivePortfolio
-.git
+   git clone https://github.com/prakhar-117/3dResponsivePortfolio.git
    ```
 
 2. Open the project folder.
